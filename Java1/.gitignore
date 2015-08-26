@@ -1,0 +1,10 @@
+!.gitignore
+
+/.idea
+/.idea_modules
+/atlassian-ide-plugin.xml
+/misc
+/target
+/project/target
+/project/project/target
+*.sc
